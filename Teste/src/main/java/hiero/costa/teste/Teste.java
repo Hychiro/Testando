@@ -13,5 +13,7 @@ public class Teste {
     private int numero;
     public void Numeral(int num){
         this.numero = num;
+    public static void main(String[] args) {
+        
     }
 }
